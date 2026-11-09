@@ -1,2 +1,2 @@
-# faculdadeprojeto
-Nosso projeto legal
+# Site da Faculdade
+  Nosso projeto legal
